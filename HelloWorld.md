@@ -1,3 +1,3 @@
 ##Hello World!
 
-### From the Data Scientist’s Toolbox Course.
+### From The Data Scientist’s Toolbox Course.
